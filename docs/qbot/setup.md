@@ -1,7 +1,7 @@
 👋 Welcome! These instructions include setup + hosting for qbot on repl.it.
 
 ❤️ **Please support qbot by subscribing to the creator's Youtube channel. It's free and helps them grow their channel tremendously.**   
-➡️ https://youtube.com/c/Lengo
+➡️ [https://youtube.com/c/Lengo](https://youtube.com/c/Lengo)
 
 ## 🌵 Create a repl.it account.
 First step is to create an account at [https://repl.it](https://repl.it). To do this, head to [https://repl.it/signup](https://repl.it/signup) and sign up.
@@ -120,7 +120,7 @@ Next, exit out of settings right click on the channel you'd like qbot to log ran
 Follow the same instructions as the previous step "What is the Discord log channel ID?", but instead of right clicking the ranking log channel, right click the channel you'd like qbot to log shout messages in.
 
 ## 🚪 Invite your bot.
-Inviting the bot is easy. Just head back to the application page on https://discordapp.com/developers and click OAuth2 on the side. 
+Inviting the bot is easy. Just head back to the application page on [https://discord.com/developers](https://discord.com/developers) and click OAuth2 on the side. 
 
 ![Example](https://i.gyazo.com/e043e1c5049226c972960c5bb299c399.png)
 
@@ -170,7 +170,7 @@ Support Server: https://discord.gg/J47m7t4
 You can change your bot's activity by editing the `bot-status.json` file. First replace the `false` to `true` on the second line to enable the activity feature under the `activity` option. Then you can replace the `PLAYING` on the third line under the `activitytype` option to either `PLAYING`, `STREAMING`, `LISTENING`, or `WATCHING`. Then change the `Roblox` on the fourth line under the `activitytext` option to the activity text (playing ...). Finally, (only if you set `activitytype` to `STREAMING`) change the `https://twitch.tv/roblox` on the fifth line under the `activityurl` option to the URL of the Twitch stream.
 
 ## 🔨 Discord API TOS
-Please note that Discord has a TOS for its API: https://discord.com/developers/docs/legal
+Please note that Discord has a TOS for its API: [https://discord.com/developers/docs/legal](https://discord.com/developers/docs/legal)
 
 This TOS is being updated August 15th, 2020 and will require all bots to have a privacy policy (even if it just says you don't collect personal information and has a way to contact you with any privacy concerns). qbot does not have this built in so you will need to add this yourself. 
 
@@ -178,6 +178,6 @@ More info can be found on the [Discord Developers](https://discord.gg/discord-de
 
 ## 📚 Thanks for reading!
 While you are at it, please subscribe to my Youtube channel. If you need any help with qbot, feel free to join my Discord server.   
-Discord: https://discord.gg/J47m7t4  
-Youtube: https://www.youtube.com/c/Lengo   
+Discord: [https://lengo.dev/discord](https://lengo.dev/discord)  
+Youtube: [https://youtube.com/c/Lengo](https://youtube.com/c/Lengo)   
 If you need any help, there are a ton of helpful people on my Discord that can help you out.
