@@ -1,5 +1,4 @@
-# Qbot Setup Guide
-👋 Welcome! These instructions include setup + hosting for qbot on repl.it.
+👋 Welcome ! These instructions include setup + hosting for qbot on repl.it.
 
 ❤️ **Please support qbot by subscribing to the creator's Youtube channel. It's free and helps them grow their channel tremendously.**   
 ➡️ [https://youtube.com/c/Lengo](https://youtube.com/c/Lengo)
