@@ -1,3 +1,4 @@
+# Qbot VPS Setup Guide
 👋 Welcome! These setup instructions are specific for people who are hosting qbot on their own VPS.
 
 ❤️ **Please support qbot by subscribing to the creator's Youtube channel. It's free and helps them grow their channel tremendously.**   
