@@ -35,23 +35,15 @@ Finally, delete the unnecessary qbot folder by clicking the 3 dots to the right 
 Congratulations! You have officially installed qbot onto your repl. Continue with the instructions below to set it up.
 
 ## 🚀 Start editing the config.
-To do this, create the `.env` file by clicking the "Add file" icon to the right of "Files".
+To do this, head to the "Secrets (Environment variables)" tab in the sidebar, and fill out a value using the instructions below for each of these keys:
 
-![Example](https://i.gyazo.com/3fe59b407d0121976b9dc536a7212ba5.gif)
-
-Then, paste the text below into the file:
-
-```
-token=
-prefix=
-cookie=
-groupId=
-maximumRank=
-logchannelid=
-shoutchannelid=
-```
-
-Then fill out the fields. There are instructions below for what to put for each field.
+* token
+* prefix
+* cookie
+* groupId
+* maximumRank
+* logchannelid
+* shoutchannelid
 
 ### 🔑 token
 To find this, head to https://discordapp.com/developers and login with Discord (if prompted to). Then click New Application at the top right. 
